@@ -1,4 +1,4 @@
-#  Household Chemical AI Safety Checker
+#  Household Ingredients AI Safety Checker
 
 An end-to-end **Machine Learning application** designed to predict the **toxicity and safety impact of ingridents of household products** using their molecular structures.
 
